@@ -1,7 +1,7 @@
 中文 | 
 # 简介
 
-照片的不更新版本，解决使用老版本照片软件
+照片的不更新版本（最差的修改版，非必要无法使用）
 
 # 有提示：
 
@@ -16,7 +16,7 @@
 
 # 下载
 
-* [2020.20120.4004.0-x64位安装包（第三方云盘）][(https://raw.githubusercontent.com/Xiaoming25565/GrooveMusic-UWP/refs/heads/master/20112Groove64.appx) ](https://pan.huang1111.cn/s/jRmxAuy)
+* [2020.20120.4004.0-x64位安装包（第三方云盘）](https://pan.huang1111.cn/s/jRmxAuy)
 
 * [2020.20120.4004.0-简体中文语言包](https://raw.githubusercontent.com/Xiaoming25565/Photos-old-UWP/refs/heads/main/202020120photoChineseS.appx)
   
@@ -44,13 +44,22 @@
 * 往下滚动到“重置”部分。
 * 点击“修复”。这会尝试修复开始菜单显示语言，可能不会不影响你的应用数据。
 
+2.视频编辑器无法使用
+* 修改版只能看照片，无法使用视频编辑器
+* 可以使用LTSC版本并且在禁用Microsoft Store更新后使用[2020.20120.4004.0的官方版本（点击前往第三方网盘下载）](https://pan.huang1111.cn/s/O8VmXIL)
+
+3.无法同步OneDrive
+* 修改版没有登录模块
+
 # 系统性问题（不是我解决的）
 
 * Windows10第一次添加单独磁贴可能不会刷新，需要关闭动态磁贴后再打开才可以
 
+* 反复下载照片媒体引擎加载项-修改版开发者更变导致没有兼容的应用
+
 # 解决问题
 
-无
+此版本无法解决任何问题
 
 # 灵感
 
